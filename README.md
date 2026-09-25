@@ -364,18 +364,6 @@ The application will open in your browser.
 
 ---
 
-# 📈 Model Performance
-
-Final model performance should be reported **after removing `Average_Speed_kmph`** to ensure the evaluation is not affected by target leakage.
-
-| Model             | MAE | MSE | RMSE | R² |
-| ----------------- | --: | --: | ---: | -: |
-| Linear Regression |   — |   — |    — |  — |
-| Random Forest     |   — |   — |    — |  — |
-| AdaBoost          |   — |   — |    — |  — |
-| Extra Trees       |   — |   — |    — |  — |
-| Gradient Boosting |   — |   — |    — |  — |
-| XGBoost           |   — |   — |    — |  — |
 
 
 
