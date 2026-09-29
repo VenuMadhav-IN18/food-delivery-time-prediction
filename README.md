@@ -177,7 +177,6 @@ Multiple regression algorithms were experimented with and compared.
 
 Models included:
 
-* Linear Regression
 * KNN Regression
 * Decision Tree
 * Support Vector Machine
